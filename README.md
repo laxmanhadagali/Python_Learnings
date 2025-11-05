@@ -15,4 +15,4 @@ Topics Covered
 * Operators and expressions in python
 * Strings operations ,String Functions and Typecasting 
 * Single-line Statementt and Multi-line statement
-
+  
