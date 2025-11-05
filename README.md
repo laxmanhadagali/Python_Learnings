@@ -9,5 +9,10 @@ This repository documents my journey of learning Python — from the basics to d
 It includes hands-on exercises, examples, and code snippets covering various Python concepts used in real-world data projects.
 
 Topics Covered
-
+## Day1
 * Python Basics (Variables, Data Types)
+## Day2
+* Operators and expressions in python
+* Strings operations ,String Functions and Typecasting 
+* Single-line Statementt and Multi-line statement
+
