@@ -15,4 +15,9 @@ Topics Covered
 * Operators and expressions in python
 * Strings operations ,String Functions and Typecasting 
 * Single-line Statementt and Multi-line statement
+## Day3
+* Conditional Statements in python(IF,ELIF,NESTED-IF)
+* Date and Time Packages
+* Datastructres in python
+
   
