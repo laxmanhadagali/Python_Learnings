@@ -19,5 +19,10 @@ Topics Covered
 * Conditional Statements in python(IF,ELIF,NESTED-IF)
 * Date and Time Packages
 * Datastructres in python
+## Day4
+* Loops in python
+ 1.for loop 2.while loop
+* Quiz program using loops
+
 
   
