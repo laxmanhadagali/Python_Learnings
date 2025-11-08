@@ -23,6 +23,15 @@ Topics Covered
 * Loops in python
  1.for loop 2.while loop
 * Quiz program using loops
+## Day5
+* Tuples
+* Tuple operations(indexing,sorting,membership)
+* Sets 
+* Set Operators
+* Dictionary
+* Methods of dictionary
+
+
 
 
   
