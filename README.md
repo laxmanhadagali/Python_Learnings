@@ -29,7 +29,13 @@ Topics Covered
 * Sets 
 * Set Operators
 * Dictionary
-* Methods of dictionary
+* Methods of dictionary 
+## Day5
+* Python Modules and Packages
+ 	- Sqrt
+	-sin,cos
+	-random
+* practiced with example
 
 
 
