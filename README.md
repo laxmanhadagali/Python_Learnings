@@ -30,7 +30,7 @@ Topics Covered
 * Set Operators
 * Dictionary
 * Methods of dictionary 
-## Day5
+## Day6
 * Python Modules and Packages
  	- Sqrt
 	-sin,cos
