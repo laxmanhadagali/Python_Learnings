@@ -36,6 +36,17 @@ Topics Covered
 	-sin,cos
 	-random
 * practiced with example
+## Day7
+* Functions in Python
+* types of Functions
+* Parameters and Arguments
+* Doc string function
+* Lambda Function
+* Filter function
+* map,reduce function
+* Dice game
+* Tossing program using random 
+
 
 
 
